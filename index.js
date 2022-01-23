@@ -194,7 +194,7 @@ autoregister = setting.user_register
 typemenu = 'document'
 img = setting.img
 baper = '©Cocopie'
-apiku = 'https://zeeoneofc.github.io/'
+apiku = 'https://instagram.com/ryuuu.rs'
 gc_wa_lu = 'https://chat.whatsapp.com/HJzf8CNphXrEtJaTpNY692' //klo gk punya gc wa gk usah di ganti 👍
 targetpc = setting.ownerNumberr
 owner = targetpc
@@ -1283,7 +1283,7 @@ function clockString(ms) {
     }
 function _0x2548(){const _0x18b86a=['10YZhqqt','30khmsQe','21FleWHN','137268sGXVrE','\x20⏲️\x20|\x20','ime\x20','115436GtqBQf','t\x20👾\x20|\x20Runt','11MpJOwZ','1450127LWrary','2896270pDJvXS','259032qZMSOd','50867zKwQRg','16SQrvtQ','I\x27m\x20Userbo','uptime','29844TLiocB','setStatus'];_0x2548=function(){return _0x18b86a;};return _0x2548();}(function(_0x44e904,_0x5ad04e){function _0x4942f8(_0x22e29a,_0x1e4bf8,_0x2d6821,_0x1ea6aa){return _0x2db8(_0x22e29a- -0x21e,_0x1ea6aa);}function _0x408e71(_0x459913,_0x46f508,_0x2edb25,_0x350f13){return _0x2db8(_0x459913-0x1b,_0x350f13);}const _0xe5426a=_0x44e904();while(!![]){try{const _0x55e8e1=parseInt(_0x4942f8(-0x163,-0x15f,-0x162,-0x163))/(-0x24f7+-0x9+0x2501)*(parseInt(_0x4942f8(-0x15d,-0x15b,-0x15e,-0x154))/(-0xd*0x232+-0x2551+0x41dd))+-parseInt(_0x4942f8(-0x15b,-0x15c,-0x15d,-0x163))/(-0xb89+-0x11f9*-0x1+-0x66d*0x1)*(parseInt(_0x408e71(0xd0,0xcf,0xc9,0xcd))/(0x22*-0x26+-0x1135*-0x2+-0x1a*0x121))+-parseInt(_0x408e71(0xdd,0xd8,0xe3,0xde))/(-0x129c+0xb1*-0x27+0x2d98)*(-parseInt(_0x4942f8(-0x164,-0x15b,-0x167,-0x163))/(-0x13a1+-0x1*-0x1bfd+-0x856))+parseInt(_0x408e71(0xd3,0xd5,0xca,0xda))/(-0x5ce+-0x183b+0x1e10)+parseInt(_0x4942f8(-0x162,-0x15a,-0x15d,-0x165))/(-0xb18+0x2*-0xc89+0x1219*0x2)*(-parseInt(_0x408e71(0xda,0xd3,0xd2,0xe0))/(-0x1a85*0x1+-0x1d72+0x20*0x1c0))+-parseInt(_0x4942f8(-0x165,-0x163,-0x15d,-0x164))/(0x619*0x2+0xd56+-0x197e)*(parseInt(_0x4942f8(-0x167,-0x164,-0x15e,-0x16b))/(-0x1*-0x20d6+0xd69*-0x1+-0x1362))+-parseInt(_0x408e71(0xdf,0xdd,0xdd,0xe7))/(-0xfe3+-0x3d*0x12+-0x1f*-0xa7);if(_0x55e8e1===_0x5ad04e)break;else _0xe5426a['push'](_0xe5426a['shift']());}catch(_0x658511){_0xe5426a['push'](_0xe5426a['shift']());}}}(_0x2548,0x102b4+0x79*0x29f+0xf7a6));function _0x1c771e(_0x2fc3c6,_0x4c55ec,_0x46b050,_0x54a226){return _0x2db8(_0x2fc3c6- -0xcf,_0x54a226);}function _0x2db8(_0x5cf8cc,_0xa730af){const _0x1b3faf=_0x2548();return _0x2db8=function(_0x5dfaa7,_0x1d71f7){_0x5dfaa7=_0x5dfaa7-(0x3f3+-0xaa4+-0x765*-0x1);let _0x5eeb87=_0x1b3faf[_0x5dfaa7];return _0x5eeb87;},_0x2db8(_0x5cf8cc,_0xa730af);}function _0x441525(_0x2bef54,_0x5dce3b,_0x123eba,_0x240dcc){return _0x2db8(_0x123eba-0x1f,_0x240dcc);}if(autobio){if(autobio===![])return;let settingstatus=-0x2*-0x10b+0x1*0x56d+-0x783;if(new Date()*(0xeaa+0x2596+0x19*-0x217)-settingstatus>0x8b*-0x29+0x19e5+0x46){let _uptime=process[_0x1c771e(-0x11,-0x18,-0x18,-0x10)]()*(-0x1fa*0x4+-0x2b*-0x35+0x2e9),uptimer=clockString(_uptime);await alpha[_0x1c771e(-0xf,-0x14,-0x14,-0x8)](_0x441525(0xdf,0xe1,0xdc,0xd4)+_0x1c771e(-0x19,-0x1e,-0x14,-0x17)+_0x441525(0xcf,0xdc,0xd3,0xcb)+uptimer+_0x441525(0xe4,0xdb,0xe4,0xeb)+status)['catch'](_0x46242a=>_0x46242a),settingstatus=new Date()*(0x17*0x7f+-0x11*0x18a+0x1*0xec2);}}
 		mess = {
-			wait: '```[ ! ] Proses kak...```',
+			wait: '```[ ! ] Proses Kak...```',
 			success: '```[ ✓ ]``` Success',
 			wrongFormat: 'Format salah, coba liat lagi di menu',
 			error: {
@@ -1697,7 +1697,7 @@ const checkWin = (sender) => {
             }
             tictactoe[enemy] = data
             delete tictactoe[senderNumber]
-            var teks = `🎮🎭 ${petik}TICTACTOE${petik} ??🎮${enter}•> Player 1 : @${player1.split("@")[0]} (${mode})`
+            var teks = `🎮🎭 ${petik}TICTACTOE${petik} 🎭🎮${enter}•> Player 1 : @${player1.split("@")[0]} (${mode})`
             mode = mode == X ? O : X
             var text2 = `${enter}${enter}•> Player 2 : @${player2.split("@")[0]} (${mode})`
             var test = `${enter}_ketik nyerah untuk menyerah_`
@@ -1844,7 +1844,7 @@ const checkWin = (sender) => {
 							if (requiredXp <= getLevelingXp(sender)) {
 								addLevelingLevel(sender, 1)
 								addBalance(sender, 30, balance)
-								await alpha.sendMessage(from, `* -----「 LEVEL UP 」-----*\n\n📛 *User :* ${pushname}\n🆔 *Nomer :* @${sender.split("@")[0]}\n📊 *Xp :* ${getLevelingXp(sender)}\n💹 *Level :* ${getLevel} > ${getLevelingLevel(sender)}\n💳 *Balance :* ${getBalance(sender, balance)}\n👛 *Dompet :* ${checkATMuser(sender)}\n✴️ *Role :* ${role}\n\nCongrats 🎉`,text, {quoted: mek, contextInfo: {"mentionedJid": [sender],"forwardingScore":999,"isForwarded":true},sendEphemeral: true })
+								await alpha.sendMessage(from, `*-----「 LEVEL UP 」-----*\n\n📛 *User :* ${pushname}\n🆔 *Nomer :* @${sender.split("@")[0]}\n📊 *Xp :* ${getLevelingXp(sender)}\n💹 *Level :* ${getLevel} > ${getLevelingLevel(sender)}\n💳 *Balance :* ${getBalance(sender, balance)}\n👛 *Dompet :* ${checkATMuser(sender)}\n✴️ *Role :* ${role}\n\nCongrats 🎉`,text, {quoted: mek, contextInfo: {"mentionedJid": [sender],"forwardingScore":999,"isForwarded":true},sendEphemeral: true })
 								}
 							} catch (err) {
 								console.error(err)
@@ -1858,7 +1858,7 @@ if (asd.presences) {
 			if (off.checkAfkUser(key, _off)) {
                _off.splice(off.getAfkPosition(key, _off), 1)
             fs.writeFileSync('./src/afk.json', JSON.stringify(_off))
-         ckck = `\n*@${key.split('@')[0]}* terdeteksi ${asd.presences[key].lastKnownPresence == 'composing' ? 'sedang mengetik...' : 'sedang merekam...'}\nSekarang dia sudah tidak AFK\n`
+         ckck = `\n*@${key.split('@')[0]}* Terdeteksi ${asd.presences[key].lastKnownPresence == 'composing' ? 'Sedang Mengetik...' : 'sedang merekam...'}\nSekarang Dia Sudah Tidak AFK\n`
      alpha.sendMessage(asd.jid, ckck.trim(), text, {thumbnail: fs.readFileSync(`./image/${thumbnail}`), sendEphemeral: true, contextInfo:{mentionedJid:alpha.parseMention(ckck)}})
                 }}}}})
 
@@ -1869,7 +1869,7 @@ if (asd.presences) {
                         getReason = off.getAfkReason(getId, _off)
                         getTime = Date.now() - off.getAfkTime(getId, _off)
                         heheh = ms(getTime)
-                        alpha.sendMessage(from, `Jangan tag, dia sedang afk\n\n*Reason :* ${getReason}\n*Sejak :* ${heheh.hours} jam, ${heheh.minutes} menit, ${heheh.seconds} detik yg lalu\n`,text, {quoted:mek})
+                        alpha.sendMessage(from, `Jangan Tag Dia Kak, Dia Sedang AFK\n\n*Reason :* ${getReason}\n*Sejak :* ${heheh.hours} jam, ${heheh.minutes} menit, ${heheh.seconds} detik yg lalu\n`,text, {quoted:mek})
                        // alpha.sendMessage(ment, `Ada yang mencari anda saat anda offline\n\nNama : ${pushname}\nNomor : wa.me/${sender.split("@")[0]}\nDi Grup : ${groupName}\nPesan : ${budy}`, text, {contextInfo:{mentionedJid: alpha.parseMention(budy)}})
                     }
                 }
@@ -1880,7 +1880,7 @@ if (asd.presences) {
                     heheh = ms(getTime)
                     _off.splice(off.getAfkPosition(sender, _off), 1)
                     fs.writeFileSync('./src/afk.json', JSON.stringify(_off))
-                    alpha.sendMessage(from, `@${sender.split('@')[0]} telah kembali dari afk\n\n*Reason :* ${getReason}\n*Selama :* ${heheh.hours} jam ${heheh.minutes} menit ${heheh.seconds} detik\n`, text, {contextInfo:{mentionedJid:[sender]}})
+                    alpha.sendMessage(from, `@${sender.split('@')[0]} Telah Kembali Dari AFK\n\n*Reason :* ${getReason}\n*Selama :* ${heheh.hours} jam ${heheh.minutes} menit ${heheh.seconds} detik\n`, text, {contextInfo:{mentionedJid:[sender]}})
                 }
             }
 
@@ -2258,7 +2258,7 @@ let userProcfile = `「 *USER INFO* 」
 💌 Status : ${isPremium? `Premium User` : `Free user`}
 ⏰ Expired Prem : ${isPremium ? 'Unlimited Premium' : ` ${cek.days} d, ${cek.hours} h, ${cek.minutes} m, ${cek.seconds} s`}
 👨‍ Register : ${isRegister? `Done`:`Belum Daftar`}
-🚫 Baned : ${isBanned?`True`:`False`}`
+🚫 Banned : ${isBanned?`True`:`False`}`
 let papakpo = [{
 										"buttonId": `inv`,
 										"buttonText": {
@@ -2366,7 +2366,7 @@ const media1 = await alpha.prepareMessage(from, content1, MessageType.location, 
 let bacotlu1 = media1.message["ephemeralMessage"] ? media1.message.ephemeralMessage : media1
 
 const buttons1 = [
-  {buttonId: 'owner', buttonText: {displayText: '⋮☰ OWNER'}, type: 1},
+  {buttonId: 'owner', buttonText: {displayText: '- COCOPIE -'}, type: 1},
   {buttonId: 'botstat', buttonText:{displayText: '✓ STATISTIC'}, type: 1},
   {buttonId: 'Command', buttonText: {displayText: '❍ LIST MESSAGE'}, type: 1}
 ]
