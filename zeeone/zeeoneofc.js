@@ -670,34 +670,6 @@ ${numberik} ${prefix}addrespon
 ${numberik} ${prefix}delrespon
 ${numberik} ${prefix}listrespon
 
- *Tag  Menu*
-${numberik} ${prefix}hidetag
-${numberik} ${prefix}kontag
-${numberik} ${prefix}sticktag
-${numberik} ${prefix}totag
-${numberik} ${prefix}ganteng 
-${numberik} ${prefix}cantik 
-${numberik} ${prefix}jelek 
-${numberik} ${prefix}goblok  
-${numberik} ${prefix}bego 
-${numberik} ${prefix}pinter 
-${numberik} ${prefix}jago 
-${numberik} ${prefix}nolep 
-${numberik} ${prefix}monyet  
-${numberik} ${prefix}babi 
-${numberik} ${prefix}beban 
-${numberik} ${prefix}baik 
-${numberik} ${prefix}jahat 
-${numberik} ${prefix}anjing 
-${numberik} ${prefix}haram 
-${numberik} ${prefix}kontol 
-${numberik} ${prefix}pakboy 
-${numberik} ${prefix}pakgirl 
-${numberik} ${prefix}wibu 
-${numberik} ${prefix}hebat 
-${numberik} ${prefix}sadboy 
-${numberik} ${prefix}sadgirl  
-
  *Kerang Ajaib*
 ${numberik} ${prefix}bisakah [query]
 ${numberik} ${prefix}apakah [query]
