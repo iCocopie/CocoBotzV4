@@ -2366,9 +2366,8 @@ const media1 = await alpha.prepareMessage(from, content1, MessageType.location, 
 let bacotlu1 = media1.message["ephemeralMessage"] ? media1.message.ephemeralMessage : media1
 
 const buttons1 = [
-  {buttonId: 'owner', buttonText: {displayText: '- COCOPIE -'}, type: 1},
-  {buttonId: 'botstat', buttonText:{displayText: '✓ STATISTIC'}, type: 1},
-  {buttonId: 'Command', buttonText: {displayText: '❍ LIST MESSAGE'}, type: 1}
+  {buttonId: 'owner', buttonText: {displayText: '👤 COCOPIE -'}, type: 1},
+  {buttonId: 'botstat', buttonText:{displayText: '📊 STATISTIC -'}, type: 1},
 ]
 
 const btn1 = {
