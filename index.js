@@ -193,9 +193,9 @@ autoketik = false
 autoregister = setting.user_register
 typemenu = 'document'
 img = setting.img
-baper = 'SUB YT ZEEONE OFC'
+baper = '©Cocopie'
 apiku = 'https://zeeoneofc.github.io/'
-gc_wa_lu = 'https://chat.whatsapp.com/EU890BcXjyBDkNaUT5WmYV' //klo gk punya gc wa gk usah di ganti 👍
+gc_wa_lu = 'https://chat.whatsapp.com/HJzf8CNphXrEtJaTpNY692' //klo gk punya gc wa gk usah di ganti 👍
 targetpc = setting.ownerNumberr
 owner = targetpc
 fake = setting.fake
@@ -2331,17 +2331,19 @@ ini_anu =`${ucapannya2}
 ├ Platform : ${os.platform()}
 ├ Runtime : ${(kyun(os.uptime()))}
 ├ Battery : ${isBattre}
-╰❒ Charging : ${isCharge}
+├ Charging : ${isCharge}
+╰❒
 
 ╭─❒ 「 User Info 」 
 ├ Name : ${pushname}
 ├ Bio : ${p1 ? `${p1.status}` : '-'}
 ├ Nomor : @${sender.split('@')[0]}
 ├ Me : ${mek.key.fromMe ? 'True' : 'False'}
-╰❒ Owner : ${isOwner ? 'True' : `False`}
+├ Owner : ${isOwner ? 'True' : `False`}
+╰❒
 `
 if(typemenu == 'document'){
-sendButDoc(from, ini_anu, `Please Don't spam bot, pause 3 seconds per command!\n`, sender, koko, ini_mark)
+sendButDoc(from, ini_anu, `©Cocopie\n`, sender, koko, ini_mark)
 } 
 if(typemenu == 'troli'){
 sendTroli(allmenu(kyun, os, prefix, wita, wit, ucapannya2, timuu, status, wa_version, mcc, mnc, os_version, device_manufacturer, device_model, alfa , alfa1, thisDay, ini_tanggal, totalchat, hit_today, ini_gcchat, latensii))
