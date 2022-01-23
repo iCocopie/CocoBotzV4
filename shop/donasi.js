@@ -20,6 +20,7 @@ return `DONASI BISA VIA BANK / E-MONEY
 	ㅁ 0887 4350 47326
 3. DANA
 	ㅁ 0887 4350 47326
+4. SAWERIA : https://saweria.co/Cocopie
 	
 Semuanya atas nama RI****DI
 `
