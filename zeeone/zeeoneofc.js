@@ -117,7 +117,7 @@ const download = (prefix) => {
 `
 }
 const allmenu = (kyun, os, prefix, wita, wit, ucapannya2, timuu, status, wa_version, mcc, mnc, os_version, device_manufacturer, device_model, alfa , alfa1, thisDay, ini_tanggal, totalchat, hit_today, ini_gcchat, latensii)  => {
-	return`❏───「 *©Cocopie & Zeeone | 2022* 」───❏
+	return`❏───「 *©Cocopie | 2022* 」───❏
                                
  ${ucapannya2}
 ⏰ Jam : ${timuu} Server Time
