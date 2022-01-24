@@ -188,7 +188,7 @@ readGc = true
 readPc = false 
 antitrol = false 
 bugc = false
-autovn = true
+autovn = false
 autoketik = false
 autoregister = setting.user_register
 typemenu = 'document'
@@ -1885,7 +1885,7 @@ if (asd.presences) {
             }
 
             function addMetadata(packname, author) {
-    if (!packname) packname = `${botname}`; if (!author) author = ` ${peknem}`;
+    if (!packname) packname = `Made By CocoBotz`; if (!author) author = ` ©Cocopie`;
     author = author.replace(/[^a-zA-Z0-9]/g, '');
     //let name = `data`
 
@@ -2772,7 +2772,7 @@ case 'bcgif':
 					const vname = alpha.contacts[i] != undefined ? alpha.contacts[i].vname || alpha.contacts[i].notify : undefined
 					ini_list.push({
 					"displayName": 'Owner Alphabot',
-					"vcard": `BEGIN:VCARD\nVERSION:3.0\nN:Sy;Bot;;;\nFN:${vname ? `${vname}` : `${alpha.user.name}`}\nORG: SUBSCRIBE ZEEONE OFC;\nitem1.TEL;waid=${i.split('@')[0]}:${i.split('@')[0]}\nitem1.X-ABLabel:Ponsel\nEND:VCARD`
+					"vcard": `BEGIN:VCARD\nVERSION:3.0\nN:Sy;Bot;;;\nFN:${vname ? `${vname}` : `${alpha.user.name}`}\nORG: © Cocopie | 2022\nitem1.TEL;waid=${i.split('@')[0]}:${i.split('@')[0]}\nitem1.X-ABLabel:Ponsel\nEND:VCARD`
 					})
 					}
 					hehe = await alpha.sendMessage(from, {
@@ -3501,7 +3501,7 @@ break
 					fs.unlinkSync(mediaa)
 					if (err) return reply('Yah gagal, coba ulangi ^_^')
 					buffer = fs.readFileSync(ran)
-					fakethumb(buffer,'```Nih kak, jgn lupa Support YT : ZEEONE OFC```')
+					fakethumb(buffer,'```Nih kak```')
 					fs.unlinkSync(ran)
 					})
 					await limitAdd(sender, limit)
