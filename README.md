@@ -13,9 +13,6 @@
     </p>
 
 -------
-## DEPLOY
-
-
 ## `ADD BUILDPACK`
 
 ```
