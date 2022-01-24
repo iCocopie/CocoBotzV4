@@ -214,7 +214,6 @@ ${numberik} ${prefix}fitnah
 ${numberik} ${prefix}absen
 ${numberik} ${prefix}absensi
 ${numberik} ${prefix}tebakgambar
-${numberik} ${prefix}caklontong
 ${numberik} ${prefix}family100
 ${numberik} ${prefix}tebakanime
 ${numberik} ${prefix}tebakkalimat
@@ -230,9 +229,6 @@ ${numberik} ${prefix}tictactoe @user
 ${numberik} ${prefix}delttt
 ${numberik} ${prefix}voting @user|reason|time
 ${numberik} ${prefix}delvote
-${numberik} ${prefix}jadibot
-${numberik} ${prefix}stopjadibot
-${numberik} ${prefix}listbot
 
  *Textpro Menu*
 ${numberik} ${prefix}halloween2 text|text2
@@ -687,7 +683,6 @@ ${numberik} ${prefix}hope_boy
 ${numberik} ${prefix}jisoo
 ${numberik} ${prefix}kr_robot
 ${numberik} ${prefix}kucing
-${numberik} ${prefix}lonte
 ${numberik} ${prefix}manusia_lidi
 ${numberik} ${prefix}menjamet
 ${numberik} ${prefix}meow
